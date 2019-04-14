@@ -143,12 +143,17 @@ public class MyFirstRobot {
             Delay.msDelay(10);
         }
 
+
+        System.out.println("EV3-Forklift: R:" + " end sequence");
+
         motorSteer.rotateTo(0, true);
 
         //lower pallet
         liftAngle = -1000;
-        motorLift.rotateTo(liftAngle, false);
+        motorLift.rotateTo(liftAngle, true);
         Delay.msDelay(2000);
+
+        System.out.println("EV3-Forklift: R:" + " end sequence 2");
 
         //drive backward
         motorDrive.backward();
