@@ -17,7 +17,7 @@ To run software you need following things:
 
 ## How to run your code on truck (when you have access to truck in Lab)
 
-The project includes latest dependencies and an example ready to be deployed on Delivery Truck using the `F-Truck` library from `CONNEX-AB-Delivery-System`. The project includes some tasks to reduce the time to deploy on your robot.
+The project includes latest dependencies and an example ready to be deployed on Forklift Truck using the `F-Truck` library from `CONNEX-AB-Delivery-System`. The project includes some tasks to reduce the time to deploy on your robot.
 
 To start, change the `brickHost`, `brickUser` and `brickPassword` properties in `config.gradle`. Then, continue to the brick setup.
 
