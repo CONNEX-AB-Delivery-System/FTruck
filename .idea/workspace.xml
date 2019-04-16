@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a612792-04ed-4870-ad7b-5ae731bfd448" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/libs/template_project_gradle-2.5.3-all.jar" afterPath="$PROJECT_DIR$/build/libs/template_project_gradle-2.5.3-all.jar" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/LineFollower.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/java/example/MyFirstRobot.java" afterPath="$PROJECT_DIR$/src/main/java/example/MyFirstRobot.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -63,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/config.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -73,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/example/MyFirstRobot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1500">
-              <caret line="100" column="8" lean-forward="false" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -749,7 +741,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1415" />
     <option name="height" value="810" />
@@ -931,7 +923,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1415" height="810" extended-state="0" />
+    <frame x="0" y="23" width="1415" height="810" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1354,7 +1346,7 @@
     <entry file="file://$PROJECT_DIR$/config.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1378,7 +1370,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/example/MyFirstRobot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
-          <caret line="100" column="8" lean-forward="false" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

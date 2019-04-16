@@ -98,7 +98,7 @@ public class MyFirstRobot {
         //Main class for executing code
         FTruckRun();
 
-        
+
 
 
         System.out.println("Checking Battery");
